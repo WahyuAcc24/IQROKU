@@ -44,6 +44,7 @@
             android:layout_marginTop="20dp"
             android:id="@+id/edtUmur"
             android:hint="Umur"
+            android:inputType="number"
             android:background="@drawable/tombol"
             />
 
